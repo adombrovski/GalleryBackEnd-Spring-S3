@@ -4,6 +4,7 @@
 target/
 *.class
 *.jar
+*.img
 *.war
 *.ear
 *.logs
